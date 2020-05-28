@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\dylan\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\dylan\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Parcial_02.-1218544579.00" t="ExcludeRecursive" />
+    <e p="C:\Users\dylan\RiderProjects\Parcial_02" t="IncludeRecursive">
+      <e p="App.config" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="ConnectionDB.cs" t="Include" />
+      <e p="frmCambiarContrasena.cs" t="Include" />
+      <e p="frmCambiarContrasena.Designer.cs" t="Include" />
+      <e p="frmCambiarContrasena.resx" t="Include" />
+      <e p="frmInicioDeSesion.cs" t="Include" />
+      <e p="frmInicioDeSesion.Designer.cs" t="Include" />
+      <e p="frmInicioDeSesion.resx" t="Include" />
+      <e p="frmPrincipal.cs" t="Include" />
+      <e p="frmPrincipal.Designer.cs" t="Include" />
+      <e p="frmPrincipal.resx" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="packages.config" t="Include" />
+      <e p="Parcial_02.csproj" t="IncludeRecursive" />
+      <e p="Parcial_02.sln" t="IncludeFlat" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="Resources.Designer.cs" t="Include" />
+        <e p="Resources.resx" t="Include" />
+        <e p="Settings.Designer.cs" t="Include" />
+        <e p="Settings.settings" t="Include" />
+      </e>
+      <e p="TipoUsuario.cs" t="Include" />
+    </e>
+  </component>
+</project>
